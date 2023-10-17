@@ -23,14 +23,10 @@ Note that Maven Wrapper is used so you do not need to have Maven installed local
 
 ### Git Cloning
 
-You can find the project on GitHub at the following URL
-
-```
-https://github.com/tombel84/wordstats
-```
 This command will clone the project into a `base-dir` directory that you can choose. 
 
 ```
+git clone https://github.com/tomoNI80s/wordstats.git
 ```
 This command will cd you into `base-dir\wordstats` where you can
 to test, build and run the program.
